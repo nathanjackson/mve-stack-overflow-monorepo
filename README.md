@@ -1,0 +1,1 @@
+A git repo that is a minimal reproducible example for [this](https://stackoverflow.com/questions/58750777/how-do-i-fix-a-git-subtree-after-the-upstream-project-force-pushed-onto-master) stack overflow question.
